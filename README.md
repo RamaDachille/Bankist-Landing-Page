@@ -1,1 +1,4 @@
-# Bankist Landing Page
+# Bankist landing page
+A sleek landing page for the fictitious Bankist app, boasting modern design elements, engaging scrolling effects, and more.
+
+Live website: [pig-game.netlify.app](https://bankist-landing-page-rama.netlify.app/)
